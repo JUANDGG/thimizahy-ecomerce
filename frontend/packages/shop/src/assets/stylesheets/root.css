@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #3498db;   /* Azul */
+    --secondary-color: #2ecc71; /* Verde */
+    --accent-color: #e74c3c;    /* Rojo */
+    --background-color: #f2f2f2; /* Fondo gris claro */
+    --text-color: #333333;      /* Texto negro */
+    --border-color: #cccccc;    /* Color de borde */
+    --link-color: #3498db;      /* Color de enlace */
+    --hover-color: #2980b9;     /* Color de hover */
+    --white-background :#ac0303;
+
+  }
+  
